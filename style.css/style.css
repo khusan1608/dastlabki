@@ -1,0 +1,17 @@
+.card{
+    color: black;
+}
+.card-header{
+    background:  yellow;
+
+}
+.btn{
+    font-size: 42px;
+    color: indigo;
+}
+.btn-link{
+    color: white;
+}
+.btn-block{
+    color: lawngreen;
+}
